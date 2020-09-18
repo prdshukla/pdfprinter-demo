@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PdfPrinter", "PdfPrinter\PdfPrinter.vbproj", "{C17034E0-3953-480D-923F-D4F9805CB3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C17034E0-3953-480D-923F-D4F9805CB3DC}.Debug|x86.ActiveCfg = Debug|x86
+		{C17034E0-3953-480D-923F-D4F9805CB3DC}.Debug|x86.Build.0 = Debug|x86
+		{C17034E0-3953-480D-923F-D4F9805CB3DC}.Release|x86.ActiveCfg = Release|x86
+		{C17034E0-3953-480D-923F-D4F9805CB3DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

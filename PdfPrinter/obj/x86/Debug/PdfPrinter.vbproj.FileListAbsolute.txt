@@ -1,0 +1,11 @@
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\bin\Debug\PdfPrinter.exe
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\bin\Debug\PdfPrinter.pdb
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\bin\Debug\PdfPrinter.xml
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\PdfPrinter.Resources.resources
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\PdfPrinter.exe
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\PdfPrinter.xml
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\PdfPrinter.pdb
+C:\1 OfficeWork\Dev Bench\2013\PdfPrinter\PdfPrinter\obj\x86\Debug\PdfPrinter.Form1.resources
